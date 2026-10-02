@@ -1,2 +1,7 @@
-# Text-To-Video-AI-main
-This application automatically turns long YouTube videos into short "Shorts" clips; it takes about 30 minutes to process an average one-hour video on a standard PC. The creator is Gökhan Yıldırım.
+# Reels: 3 Kalp, Tek Ahtapot
+
+İndirilebilir video: [`ahtapot-3-kalp-reel.mp4`](./ahtapot-3-kalp-reel.mp4)
+
+- Dikey 9:16, 1080 × 1920, yaklaşık 27 saniye
+- Türkçe anlatım, özgün arka plan müziği ve gömülü altyazı
+- Sinematik görseller yapay zekâ ile üretildi
